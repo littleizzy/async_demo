@@ -1,0 +1,15 @@
+{
+  "name": "async_demo",
+  "version": "1.0.0",
+  "description": "Aynchronous Programming Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "js"
+  ],
+  "author": "Izzy",
+  "license": "ISC"
+}
